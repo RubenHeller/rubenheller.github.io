@@ -5,7 +5,16 @@
     <link>https://rubenheller.github.io/</link>
     <description>Recent content on Ruben Heller</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 13 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://rubenheller.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://rubenheller.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Wat is Self-Sovereign Identity?</title>
+      <link>https://rubenheller.github.io/blog/wat-is-self-sovereign-identity/</link>
+      <pubDate>Mon, 30 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://rubenheller.github.io/blog/wat-is-self-sovereign-identity/</guid>
+      <description>Een korte uitleg over Self-Sovereign Identity met voorbeelden</description>
+    </item>
+    
     <item>
       <title>Challenge The Cyber - File Upload</title>
       <link>https://rubenheller.github.io/ctf/challenge-the-cyber-file-upload/</link>

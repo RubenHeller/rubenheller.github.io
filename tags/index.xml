@@ -5,7 +5,16 @@
     <link>https://rubenheller.github.io/tags/</link>
     <description>Recent content in Tags on Ruben Heller</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 13 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://rubenheller.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://rubenheller.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SSI</title>
+      <link>https://rubenheller.github.io/tags/ssi/</link>
+      <pubDate>Mon, 30 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://rubenheller.github.io/tags/ssi/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Code-Injection</title>
       <link>https://rubenheller.github.io/tags/code-injection/</link>
