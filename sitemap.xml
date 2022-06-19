@@ -2,31 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://rubenheller.github.io/blog/</loc>
-    <lastmod>2022-05-30T00:00:00+00:00</lastmod>
+    <loc>https://rubenheller.github.io/ctf/</loc>
+    <lastmod>2022-06-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rubenheller.github.io/tags/forensics/</loc>
+    <lastmod>2022-06-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rubenheller.github.io/ctf/mini-linux-forensics-mate/</loc>
+    <lastmod>2022-06-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rubenheller.github.io/tags/mus22/</loc>
+    <lastmod>2022-06-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://rubenheller.github.io/</loc>
+    <lastmod>2022-06-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rubenheller.github.io/tags/</loc>
+    <lastmod>2022-06-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rubenheller.github.io/blog/</loc>
     <lastmod>2022-05-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://rubenheller.github.io/tags/ssi/</loc>
     <lastmod>2022-05-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rubenheller.github.io/tags/</loc>
-    <lastmod>2022-05-30T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://rubenheller.github.io/blog/wat-is-self-sovereign-identity/</loc>
     <lastmod>2022-05-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rubenheller.github.io/ctf/challenge-the-cyber-file-upload/</loc>
+    <loc>https://rubenheller.github.io/ctf/challenge-the-cyber-file-upload-kopie/</loc>
     <lastmod>2022-05-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://rubenheller.github.io/tags/code-injection/</loc>
     <lastmod>2022-05-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://rubenheller.github.io/tags/ctc2022/</loc>
-    <lastmod>2022-05-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://rubenheller.github.io/ctf/</loc>
     <lastmod>2022-05-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://rubenheller.github.io/tags/file-upload/</loc>

@@ -5,13 +5,22 @@
     <link>https://rubenheller.github.io/ctf/</link>
     <description>Recent content in CTF on Ruben Heller</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 13 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://rubenheller.github.io/ctf/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 19 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://rubenheller.github.io/ctf/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mini Linux Forensics - Mate &amp; Kubuntu</title>
+      <link>https://rubenheller.github.io/ctf/mini-linux-forensics-mate/</link>
+      <pubDate>Sun, 19 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://rubenheller.github.io/ctf/mini-linux-forensics-mate/</guid>
+      <description>Investigating EWF E01 forensic disk images</description>
+    </item>
+    
     <item>
       <title>Challenge The Cyber - File Upload</title>
-      <link>https://rubenheller.github.io/ctf/challenge-the-cyber-file-upload/</link>
+      <link>https://rubenheller.github.io/ctf/challenge-the-cyber-file-upload-kopie/</link>
       <pubDate>Fri, 13 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://rubenheller.github.io/ctf/challenge-the-cyber-file-upload/</guid>
+      <guid>https://rubenheller.github.io/ctf/challenge-the-cyber-file-upload-kopie/</guid>
       <description>Bypassing login and upload filters</description>
     </item>
     
