@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Self-Sovereign Identity on Ruben Heller</title>
+    <link>https://rubenheller.github.io/tags/self-sovereign-identity/</link>
+    <description>Recent content in Self-Sovereign Identity on Ruben Heller</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 30 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://rubenheller.github.io/tags/self-sovereign-identity/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Wat is Self-Sovereign Identity?</title>
+      <link>https://rubenheller.github.io/blog/wat-is-self-sovereign-identity/</link>
+      <pubDate>Mon, 30 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://rubenheller.github.io/blog/wat-is-self-sovereign-identity/</guid>
+      <description>Een korte uitleg met voorbeelden over Self-Sovereign Identity</description>
+    </item>
+    
+  </channel>
+</rss>
